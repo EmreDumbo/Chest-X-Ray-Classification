@@ -43,8 +43,8 @@ Ensure you have the following installed:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/EmreDumbo/Lung-Disease-Classification.git
-   cd Lung-Disease-Classification
+   git clone https://github.com/EmreDumbo/Chest-X-Ray-Classification
+   cd Chest-X-Ray-Classification
    ```
 
 2. **Prepare the Dataset**:
@@ -54,8 +54,8 @@ Ensure you have the following installed:
 
 3. **Set Up the Environment**:
    ```bash
-   python -m venv lung_disease_env
-   source lung_disease_env/bin/activate
+   python -m venv chest_xray_env
+   source chest_xray_env/bin/activate
    ```
 
 4. **Install Dependencies**:
